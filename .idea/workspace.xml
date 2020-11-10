@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc461107-9ead-4720-bb88-543b2be61a8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/blog.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Norma ISO 27001.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,12 +133,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iq5aU3SVtHC0kQV1UElqSO70uk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -199,7 +197,8 @@
       <workItem from="1604445701935" duration="585000" />
       <workItem from="1604446335280" duration="1109000" />
       <workItem from="1604782608746" duration="4480000" />
-      <workItem from="1605022994886" duration="4133000" />
+      <workItem from="1605022994886" duration="6534000" />
+      <workItem from="1605039711374" duration="1032000" />
     </task>
     <task id="LOCAL-00001" summary="listo">
       <created>1604791492508</created>
@@ -208,13 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604791492508</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="listo">
+      <created>1605036039961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605036039961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="listo" />
     <option name="LAST_COMMIT_MESSAGE" value="listo" />
   </component>
@@ -235,10 +242,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="0" key="#guzzle/Dockerfile/0.0.1366.728@0.0.1366.728" timestamp="1604446816802" />
-    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1604791490288">
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605036037464">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604791490288" />
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605036037464" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603834359953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -255,10 +262,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603834359952" />
-    <state x="397" y="98" key="Vcs.Push.Dialog.v2" timestamp="1604791495073">
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1605038700923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="397" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604791495073" />
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605038700923" />
+    <state x="397" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605036042371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605036042371" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1605023014850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
