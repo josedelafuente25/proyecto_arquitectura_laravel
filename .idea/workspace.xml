@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc461107-9ead-4720-bb88-543b2be61a8b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/proyectoArquitectura.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/proyectoArquitectura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,26 +198,47 @@
       <workItem from="1604432879719" duration="3876000" />
       <workItem from="1604445701935" duration="585000" />
       <workItem from="1604446335280" duration="1109000" />
-      <workItem from="1604782608746" duration="2512000" />
+      <workItem from="1604782608746" duration="4480000" />
+      <workItem from="1605022994886" duration="4133000" />
     </task>
+    <task id="LOCAL-00001" summary="listo">
+      <created>1604791492508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604791492508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="listo" />
+    <option name="LAST_COMMIT_MESSAGE" value="listo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Notifications" timestamp="1604433454339">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1604433454339" />
-    <state x="539" y="0" key="#PHP" timestamp="1604791466701">
+    <state x="539" y="0" key="#PHP" timestamp="1604959086875">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="539" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1604791466701" />
+    <state x="539" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1604959086875" />
+    <state x="423" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605027671930">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="423" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1605027671930" />
     <state x="414" y="0" key="#guzzle/Dockerfile" timestamp="1604446816802">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="0" key="#guzzle/Dockerfile/0.0.1366.728@0.0.1366.728" timestamp="1604446816802" />
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1604791490288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604791490288" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603834359953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -230,9 +255,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603834359952" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1604782616052">
+    <state x="397" y="98" key="Vcs.Push.Dialog.v2" timestamp="1604791495073">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604782616052" />
+    <state x="397" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604791495073" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1605023014850">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605023014850" />
+    <state x="680" y="166" key="run.anything.popup" timestamp="1605024212432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605024212432" />
   </component>
 </project>
