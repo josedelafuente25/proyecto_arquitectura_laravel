@@ -1,3 +1,7 @@
 @extends('layout')
 
-@se
+@section('content')
+
+    <h1>Contenido principal</h1>
+
+@endsection('content')

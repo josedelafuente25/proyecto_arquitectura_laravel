@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dc461107-9ead-4720-bb88-543b2be61a8b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +199,7 @@
       <workItem from="1604446335280" duration="1109000" />
       <workItem from="1604782608746" duration="4480000" />
       <workItem from="1605022994886" duration="6534000" />
-      <workItem from="1605039711374" duration="2306000" />
+      <workItem from="1605039711374" duration="3345000" />
     </task>
     <task id="LOCAL-00001" summary="listo">
       <created>1604791492508</created>
@@ -234,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605041382749</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="listo">
+      <created>1605042036017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605042036017</updated>
+    </task>
+    <task id="LOCAL-00007" summary="listo">
+      <created>1605042133981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605042133981</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,10 +278,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="414" y="0" key="#guzzle/Dockerfile/0.0.1366.728@0.0.1366.728" timestamp="1604446816802" />
-    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605042034433">
+    <state x="430" y="0" key="CommitChangelistDialog2" timestamp="1605042132074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605042034433" />
+    <state x="430" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605042132074" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603834359953">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -286,10 +302,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605038700923" />
-    <state x="397" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605042049503">
+    <state x="397" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605042135582">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="397" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605042049503" />
+    <state x="397" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605042135582" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1605023014850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

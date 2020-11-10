@@ -6,11 +6,9 @@
     <title>Stylist laravel</title>
 </head>
 <body>
-Menu
-
+    Menu
 <div>
     @yield('content')
 </div>
-
 </body>
 </html>
