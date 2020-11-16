@@ -20,3 +20,7 @@ Route::get('blog', 'BlogController@index' ) ->name('blog.index');
 Route::get('blog/{post:slug}', 'BlogController@show' ) ->name('blog.show');
 
 Route::view('contactos', 'contact') ->name('contact');
+
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+    return view('dashboard');
+})->name('dashboard');
