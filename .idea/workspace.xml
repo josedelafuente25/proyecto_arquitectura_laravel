@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc461107-9ead-4720-bb88-543b2be61a8b" name="Default Changelist" comment="Login y registro">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="dc461107-9ead-4720-bb88-543b2be61a8b" name="Default Changelist" comment="vendor-nodemodules" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +220,7 @@
       <workItem from="1605480718173" duration="1407000" />
       <workItem from="1605482341235" duration="2264000" />
       <workItem from="1605484641603" duration="1297000" />
-      <workItem from="1605640101819" duration="2853000" />
+      <workItem from="1605640101819" duration="3183000" />
     </task>
     <task id="LOCAL-00001" summary="listo">
       <created>1604791492508</created>
@@ -274,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605485919001</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="vendor-nodemodules">
+      <created>1605643189957</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605643189958</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +312,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="listo" />
     <MESSAGE value="Login y registro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Login y registro" />
+    <MESSAGE value="vendor-nodemodules" />
+    <option name="LAST_COMMIT_MESSAGE" value="vendor-nodemodules" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Notifications" timestamp="1604433454339">
@@ -352,11 +357,11 @@
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605038700923" />
     <state x="727" y="411" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605482393416" />
-    <state x="558" y="140" key="Vcs.Push.Dialog.v2" timestamp="1605485922902">
+    <state x="558" y="140" key="Vcs.Push.Dialog.v2" timestamp="1605643192297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="397" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605042049503" />
-    <state x="558" y="140" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605485922902" />
+    <state x="558" y="140" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605643192297" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1605023014850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
