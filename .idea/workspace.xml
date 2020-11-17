@@ -16,11 +16,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc461107-9ead-4720-bb88-543b2be61a8b" name="Default Changelist" comment="Login y registro">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +222,8 @@
       <workItem from="1605039711374" duration="2306000" />
       <workItem from="1605480718173" duration="1407000" />
       <workItem from="1605482341235" duration="2264000" />
-      <workItem from="1605484641603" duration="1154000" />
+      <workItem from="1605484641603" duration="1297000" />
+      <workItem from="1605640101819" duration="2853000" />
     </task>
     <task id="LOCAL-00001" summary="listo">
       <created>1604791492508</created>
@@ -259,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605485809235</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Login y registro">
+      <created>1605485919001</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605485919001</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +285,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -325,10 +352,11 @@
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605038700923" />
     <state x="727" y="411" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605482393416" />
-    <state x="397" y="98" key="Vcs.Push.Dialog.v2" timestamp="1605042049503">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="558" y="140" key="Vcs.Push.Dialog.v2" timestamp="1605485922902">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="397" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605042049503" />
+    <state x="558" y="140" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605485922902" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1605023014850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
