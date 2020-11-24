@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class serviceTenantController extends Controller
+class ServiceTenantController extends Controller
 {
     //hola
 }
