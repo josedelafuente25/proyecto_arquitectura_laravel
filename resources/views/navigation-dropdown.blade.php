@@ -15,9 +15,21 @@
                 <!-- Navigation Links -->
                 <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
                     <x-jet-nav-link href="{{ route('dashboard') }}" :active="request()->routeIs('dashboard')">
-                        {{ __('Stylist') }}
+                        {{ __('Home  ') }}
                     </x-jet-nav-link>
                 </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('services') }}" :active="request()->routeIs('services')">
+                        {{ __('Ver servicios') }}
+                    </x-jet-nav-link>
+                </div>
+                <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                    <x-jet-nav-link href="{{ route('put-service') }}" :active="request()->routeIs('put-service')">
+                        {{ __('Publicar mi servicio') }}
+                    </x-jet-nav-link>
+                </div>
+
+
             </div>
 
             <!-- Settings Dropdown -->

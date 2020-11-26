@@ -14,6 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/', 'home' ) ->name('home');
+Route::view('/servicios', 'services' ) ->name('services');
+Route::view('/publicar', 'put-service' ) ->name('put-service');
 Route::view('acerca-de', 'about') ->name('about');
 
 Route::get('blog', 'BlogController@index' ) ->name('blog.index');
