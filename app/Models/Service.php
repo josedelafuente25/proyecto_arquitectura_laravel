@@ -2,12 +2,13 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
 class Service extends Model
 {
-    use HasFactory;
-    Protected $table = ‘service’;
+    protected $fillable = [
+        'type_service', 'description', 'phone', 'state'
+    ];
+    public $timestamps = false;
 
 }

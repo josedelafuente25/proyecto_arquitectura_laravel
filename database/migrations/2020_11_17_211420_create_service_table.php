@@ -14,11 +14,11 @@ class CreateServiceTable extends Migration
     public function up()
     {
         Schema::create('services', function (Blueprint $table) {
-            $table->unsignedInteger('tenant_id');
             $table->unsignedInteger('user_id')->nullable();
-            $table->string('name_service');
             $table->string('type_service');
-            $table->boolean('state');
+            $table->string('description');
+            $table->string('phone');
+            $table->boolean('state')->nullable();
         });
     }
 

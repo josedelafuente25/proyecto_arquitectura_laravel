@@ -24,7 +24,7 @@
                     </x-jet-nav-link>
                 </div>
                 <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
-                    <x-jet-nav-link href="{{ route('put-service') }}" :active="request()->routeIs('put-service')">
+                    <x-jet-nav-link href="{{ route('form') }}" :active="request()->routeIs('form')">
                         {{ __('Publicar mi servicio') }}
                     </x-jet-nav-link>
                 </div>

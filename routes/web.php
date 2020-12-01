@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::view('/', 'home' ) ->name('home');
 Route::view('/servicios', 'services' ) ->name('services');
-Route::view('/publicar', 'put-service' ) ->name('put-service');
+Route::view('/publicar', 'form' ) ->name('form');
 Route::view('acerca-de', 'about') ->name('about');
 
 Route::get('blog', 'BlogController@index' ) ->name('blog.index');
@@ -26,3 +26,7 @@ Route::view('contactos', 'contact') ->name('contact');
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
+
+Route::get('/form', function () {
+    return view('form');
+});
